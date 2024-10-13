@@ -13,7 +13,7 @@
     <p>
         Questo progetto è un'applicazione web sviluppata in PHP vanilla, JavaScript, jQuery e MySQL, progettata per fornire una guida interattiva per sviluppatori. L'applicazione include una sezione pubblica che presenta informazioni sui diversi linguaggi di programmazione e permette agli utenti di interagire con i dati tramite chiamate AJAX per recuperare informazioni dal database. Gli utenti possono registrarsi e accedere a un'area personale dove possono aggiungere e modificare informazioni nella guida, rendendola un progetto open source.
     </p>
-    <h2 class="mt-4">Funzionalità</h2>>
+    <h2 class="mt-4">Funzionalità</h2>
     <h3>Sezione Pubblica:</h3>
     <ul>
         <li>Guida per sviluppatori con informazioni sui vari linguaggi di programmazione.</li>
@@ -50,8 +50,5 @@
 
 </div>
 
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
